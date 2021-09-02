@@ -1,0 +1,11 @@
+{
+  "name": "Pink Wheelbarrow",
+  "address": {
+    "street": "123 Sunny Drive",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip_code": "52402"
+  },
+  "phone_number": "319-999-9999",
+  "email": "pink.wheelbarrow@example.com"
+}

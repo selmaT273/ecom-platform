@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Gold Stripe",
+    "description": "This bow looks like a sunset",
+    "type": "bow",
+    "price": 6.00,
+    "quantity": 10,
+    "image_url":"" 
+  },
+  {
+    "id": 2,
+    "name": "Peachy Keen",
+    "description": "Show off your peach with these cute shorties",
+    "type": "shorts",
+    "price": 15.99,
+    "quantity": 6,
+    "image_url":"" 
+  },
+  {
+    "id": 3,
+    "name": "Melon Dreams",
+    "description": "Sweet summer shirt.",
+    "type": "shirt",
+    "price": 14.00,
+    "quantity": 14,
+    "image_url":"" 
+  },
+  {
+    "id": 4,
+    "name": "Pastel Wonderland",
+    "description": "All the pastel vibes",
+    "type": "bow",
+    "price": 6.00,
+    "quantity": 11,
+    "image_url":"" 
+  },
+  {
+    "id": 5,
+    "name": "Candy Corn Piggies",
+    "description": "Get into the sweet spirit with this halloween treat",
+    "type": "bow",
+    "price": 8.00,
+    "quantity": 14,
+    "image_url":"" 
+  },
+  {
+    "id": 6,
+    "name": "Be Kind",
+    "description": "Spread kindness, spread the word with this sticker",
+    "type": "sticker",
+    "price": 3.00,
+    "quantity": 13,
+    "image_url":"" 
+  },
+  {
+    "id": 7,
+    "name": "Floral State of Mind",
+    "description": "Brighten things up with a floral pop",
+    "type": "sticker",
+    "price": 3.00,
+    "quantity": 10,
+    "image_url":"" 
+  },
+  {
+    "id": 8,
+    "name": "Field of Rainbows",
+    "description": "This colorway will surely brighten anyone's day",
+    "type": "shorts",
+    "price": 15.99,
+    "quantity": 10,
+    "image_url":"" 
+  },
+  {
+    "id": 9,
+    "name": "Birthday Star",
+    "description": "Let the world know its your special day in this cozy shirt",
+    "type": "shirt",
+    "price": 14.00,
+    "quantity": 10,
+    "image_url":"" 
+  },
+  {
+    "id": 10,
+    "name": "Go Team",
+    "description": "Show your team you've got their back!",
+    "type": "shirt",
+    "price": 6.00,
+    "quantity": 10,
+    "image_url":"" 
+  }
+]
