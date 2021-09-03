@@ -6,7 +6,7 @@
     "type": "bow",
     "price": 6.00,
     "quantity": 10,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1508083460982-28b3207400d2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=333&q=80" 
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "type": "shorts",
     "price": 15.99,
     "quantity": 6,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1531171519596-47c996f5fc7b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "type": "shirt",
     "price": 14.00,
     "quantity": 14,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1595475207225-428b62bda831?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80" 
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "type": "bow",
     "price": 6.00,
     "quantity": 11,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1555545624-16240401df02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "type": "bow",
     "price": 8.00,
     "quantity": 14,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1568041327767-d6a7883f5f99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80" 
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "type": "sticker",
     "price": 3.00,
     "quantity": 13,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1600433806150-6c93b50d27cd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80" 
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "type": "sticker",
     "price": 3.00,
     "quantity": 10,
-    "image_url":"" 
+    "image_url": "https://images.unsplash.com/photo-1591241880758-722003fdb0af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80" 
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "type": "shorts",
     "price": 15.99,
     "quantity": 10,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1536293182766-c9c0c4133b55?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80" 
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "type": "shirt",
     "price": 14.00,
     "quantity": 10,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1553135422-400ee5852b27?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=398&q=80" 
   },
   {
     "id": 10,
@@ -87,6 +87,6 @@
     "type": "shirt",
     "price": 6.00,
     "quantity": 10,
-    "image_url":"" 
+    "image_url":"https://images.unsplash.com/photo-1530279281203-4c60af01ee58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" 
   }
 ]
