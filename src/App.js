@@ -1,8 +1,11 @@
 import React from 'react';
 import { Tab, Tabs } from 'react-bootstrap';
+import './components/wheelbarrow.png';
 import './App.css';
 import shopData from './data/shop-data.json';
 import Home from './components/Home';
+import Shop from './components/Shop';
+import Contact from './components/Contact';
 
 export default class App extends React.Component {
   constructor(props){
@@ -22,7 +25,7 @@ export default class App extends React.Component {
   render(){
     return(
       <div>
-        <h1>{shopData.name}</h1>
+        <h1 id="nav-h1">{shopData.name} <img src="wheelbarrow.png" alt="" /> </h1>
         <Tabs
           id="tabbys"
           activeKey={this.state.key}
@@ -33,10 +36,10 @@ export default class App extends React.Component {
             <Home shopInfo={shopData}/>
           </Tab>
           <Tab eventKey="shop" title="Shop">
-            <p>time to shop</p>
+            <Shop />
           </Tab>
           <Tab eventKey="contact" title="Contact">
-            <p>contact infooo</p>
+            <Contact />
           </Tab>
         </Tabs>
       </div>

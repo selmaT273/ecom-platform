@@ -3,6 +3,13 @@ div {
   margin: 0 auto;
 }
 
-h1 {
+#nav-h1 {
+  font-family: 'Bellota', cursive;
   text-align: center;
+  color: rgb(247, 177, 219);
+  text-shadow: 1px 1px 1px rgb(180, 180, 180);
+}
+
+.mb-3 {
+  font-family: 'Montserrat', sans-serif;
 }
