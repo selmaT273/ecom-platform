@@ -24,7 +24,7 @@ export default class App extends React.Component {
 
   render(){
     return(
-      <div>
+      <>
         <h1 id="nav-h1">{shopData.name} <img src="wheelbarrow.png" alt="" /></h1>
         <Tabs
           id="tabbys"
@@ -42,7 +42,7 @@ export default class App extends React.Component {
             <Contact />
           </Tab>
         </Tabs>
-      </div>
+      </>
     )
   }
 }
