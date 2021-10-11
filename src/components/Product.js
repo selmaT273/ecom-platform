@@ -5,7 +5,7 @@ export default class Product extends React.Component {
   render(){
     return(
       <>
-        <Card>
+        <Card className="product-card">
           <Card.Img variant="top" src={this.props.img} />
           <Card.Body>
             <Card.Title>{this.props.title}</Card.Title>
